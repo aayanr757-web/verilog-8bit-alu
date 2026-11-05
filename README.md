@@ -32,6 +32,20 @@ vvp alu_sim
 
 ## Skills Demonstrated
 
+
+## Simulation Screenshots
+
+### Automated Test Results
+
+All 16 test cases passed successfully, with 0 failures.
+
+![16 Tests Passed](ALU_16_Tests_Passed.png)
+
+### ALU Waveform
+
+The waveform shows the outputs for all eight ALU operations.
+
+![ALU Waveform](ALU_Waveform_Results.png)
 Verilog HDL, digital logic design, combinational circuits, hardware simulation, automated testing, and waveform analysis.
 
 ## Author
